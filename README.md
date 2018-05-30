@@ -2,7 +2,7 @@
 Get started with Django, a high-level Python Web framework
 # Clone the repository.
 
-#Running the app
+# Running the app.
 Install all the requirements in your environment.
 
 pip install -r requirements.txt
