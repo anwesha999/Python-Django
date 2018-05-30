@@ -11,4 +11,4 @@ After that, run the app using Django manage.py.
 python manage.py migrate
 python manage.py runserver
 
-Access the homepage on  http://127.0.0.1:8000/
+Access the homepage on  http://127.0.0.1:8000/ or http://localhost:8000
